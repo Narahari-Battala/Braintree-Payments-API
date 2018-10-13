@@ -9,6 +9,6 @@ Braintree(https://www.braintreepayments.com).
 
 ## Future Scope:
 
-* I am updating the API to handle paypal, Apple Pay, Android Pay so that users can use their Paypal, Apple Pay or Android Pay for payments.
+* I am updating the API to handle paypal, Apple Pay, Android Pay Payment Operations so that users can use their Paypal, Apple Pay or Android Pay for payments.
 
 
